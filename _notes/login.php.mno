@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_login" value="name:class;datatype:string,name:class_level;datatype:string,name:user_name;datatype:string,name:user_Id;datatype:int,name:user_password;datatype:string" />
-	<infoitem key="UD_user" value="name:user_ID;datatype:int,name:user_Password;datatype:string,name:user_Name;datatype:string,name:class;datatype:string,name:level;datatype:string" />
-	<infoitem key="UD_Recordset1" value="name:user_ID;datatype:int,name:user_Password;datatype:string,name:user_Name;datatype:string,name:class;datatype:string,name:level;datatype:string" />
-	<infoitem key="UD_Recordset2" value="name:user_ID;datatype:int,name:user_Password;datatype:string,name:user_Name;datatype:string,name:class;datatype:string,name:level;datatype:string" />
-</info>
