@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
-	<infoitem key="MM_Form_Count" value="0" />
-	<infoitem key="MM_Session_Count" value="0" />
-	<infoitem key="PageAccessControl" value="class" />
-</info>
